@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
@@ -232,7 +231,8 @@ vendor/bin/codecept run functional,unit -- --coverage-html --coverage-xml
 ```
 
 You can see code coverage output under the `tests/_output` directory.
-=======
+
+
 # homy
 Homy is a web interface coupled with a few raspberry pi and smart outlets to control your house from your smartphone or your computer
 >>>>>>> 2c6734fa34a143d4d3c338715a681f2043c3ffdc
